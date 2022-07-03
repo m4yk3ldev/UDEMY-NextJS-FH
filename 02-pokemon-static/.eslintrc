@@ -1,0 +1,32 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "extends": [
+    "next",
+    "plugin:prettier/recommended",
+    "eslint:recommended",
+    "next/core-web-vitals",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+  },
+  "globals": {
+    "snapt": true,
+    "fbq": true,
+    "analytics": true,
+    "snaptr": true,
+    "dataLayer": true,
+    "gtag": true,
+    "window": true
+  }
+}
