@@ -1,0 +1,12 @@
+[submodule "04-next-cookie-master"]
+	path = 04-next-cookie-master
+	url = git@github.com:Klerith/next-cookie-master.git
+[submodule "03-next-open-jira"]
+	path = 03-next-open-jira
+	url = git@github.com:Klerith/next-open-jira.git
+[submodule "02-next-pokemon-static"]
+	path = 02-next-pokemon-static
+	url = git@github.com:Klerith/next-pokemon-static.git
+[submodule "01-initial-demo"]
+	path = 01-initial-demo
+	url = git@github.com:Klerith/next-inicial-demo.git
