@@ -10,3 +10,6 @@
 [submodule "01-initial-demo"]
 	path = 01-initial-demo
 	url = git@github.com:Klerith/next-inicial-demo.git
+[submodule "05-next-teslo"]
+	path = 05-next-teslo
+	url = git@github.com:Klerith/next-teslo.git
